@@ -1,0 +1,1078 @@
+[[AdvancedFormat]]
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States 
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block._ East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is reliable.
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is authentic.
+I think the content is complete.
+I think the content is correct.
+I think the content is objective.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is clear.
+I think the content is authentic.
+I think the content is trustworthy.
+I think the content is objective.
+I think the content is readable.
+I think the content is reliable.
+I think the content is complete.
+I think the content is correct.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is objective.
+I think the content is complete.
+I think the content is reliable.
+I think the content is authentic.
+I think the content is trustworthy.
+I think the content is correct.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is clear.
+I think the content is authentic.
+I think the content is objective.
+I think the content is correct.
+I think the content is complete.
+I think the content is reliable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Type in the number 5
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is clear.
+I think the content is objective.
+I think the content is correct.
+I think the content is reliable.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is objective.
+I think the content is readable.
+I think the content is reliable.
+I think the content is authentic.
+I think the content is complete.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is objective.
+I think the content is readable.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is authentic.
+I think the content is complete.
+I think the content is clear.
+I think the content is reliable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is reliable.
+I think the content is readable.
+I think the content is authentic.
+I think the content is complete.
+I think the content is correct.
+I think the content is clear.
+I think the content is objective.
+I think the content is trustworthy.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+When day is Christmas?
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is reliable.
+I think the content is readable.
+I think the content is clear.
+I think the content is objective.
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is correct.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is authentic.
+I think the content is readable.
+I think the content is reliable.
+I think the content is clear.
+I think the content is complete.
+I think the content is correct.
+I think the content is objective.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is objective.
+I think the content is reliable.
+I think the content is clear.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is readable.
+I think the content is authentic.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is correct.
+I think the content is objective.
+I think the content is authentic.
+I think the content is reliable.
+I think the content is clear.
+I think the content is readable.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Who is the current president?
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is objective.
+I think the content is trustworthy.
+I think the content is readable.
+I think the content is reliable.
+I think the content is correct.
+I think the content is clear.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is clear.
+I think the content is correct.
+I think the content is reliable.
+I think the content is objective.
+I think the content is readable.
+I think the content is authentic.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States 
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block._ East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is clear.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is authentic.
+I think the content is objective.
+I think the content is reliable.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is authentic.
+I think the content is trustworthy.
+I think the content is objective.
+I think the content is complete.
+I think the content is correct.
+I think the content is readable.
+I think the content is reliable.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Name a country that starts with C
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is reliable.
+I think the content is objective.
+I think the content is correct.
+I think the content is authentic.
+I think the content is clear.
+I think the content is trustworthy.
+I think the content is readable.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is correct.
+I think the content is clear.
+I think the content is authentic.
+I think the content is objective.
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is reliable.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is authentic.
+I think the content is readable.
+I think the content is clear.
+I think the content is trustworthy.
+I think the content is reliable.
+I think the content is objective.
+I think the content is complete.
+I think the content is correct.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is reliable.
+I think the content is complete.
+I think the content is clear.
+I think the content is readable.
+I think the content is authentic.
+I think the content is objective.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+What month does Halloween fall under?
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States 
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block._ East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is reliable.
+I think the content is authentic.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is readable.
+I think the content is objective.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is reliable.
+I think the content is trustworthy.
+I think the content is objective.
+I think the content is complete.
+I think the content is authentic.
+I think the content is correct.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is objective.
+I think the content is complete.
+I think the content is reliable.
+I think the content is readable.
+I think the content is authentic.
+I think the content is correct.
+I think the content is clear.
+I think the content is trustworthy.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is clear.
+I think the content is readable.
+I think the content is authentic.
+I think the content is reliable.
+I think the content is correct.
+I think the content is complete.
+I think the content is objective.
+I think the content is trustworthy.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Name an ocean
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is clear.
+I think the content is readable.
+I think the content is objective.
+I think the content is reliable.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is correct.
+I think the content is readable.
+I think the content is authentic.
+I think the content is objective.
+I think the content is reliable.
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is objective.
+I think the content is clear.
+I think the content is readable.
+I think the content is authentic.
+I think the content is correct.
+I think the content is reliable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States 
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block._ East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is authentic.
+I think the content is reliable.
+I think the content is clear.
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is objective.
+I think the content is complete.
+I think the content is correct.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+What is 2 + 2?
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is clear.
+I think the content is objective.
+I think the content is reliable.
+I think the content is readable.
+I think the content is correct.
+I think the content is authentic.
+I think the content is trustworthy.
+I think the content is complete.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is clear.
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is reliable.
+I think the content is objective.
+I think the content is authentic.
+I think the content is readable.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is authentic.
+I think the content is correct.
+I think the content is clear.
+I think the content is readable.
+I think the content is complete.
+I think the content is objective.
+I think the content is trustworthy.
+I think the content is reliable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is authentic.
+I think the content is clear.
+I think the content is correct.
+I think the content is readable.
+I think the content is objective.
+I think the content is reliable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Type in the number 5
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is clear.
+I think the content is authentic.
+I think the content is correct.
+I think the content is objective.
+I think the content is reliable.
+I think the content is readable.
+[[AdvancedAnswers]]
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States 
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block._ East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is clear.
+I think the content is readable.
+I think the content is objective.
+I think the content is authentic.
+I think the content is reliable.
+I think the content is correct.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is correct.
+I think the content is readable.
+I think the content is clear.
+I think the content is trustworthy.
+I think the content is reliable.
+I think the content is objective.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is reliable.
+I think the content is readable.
+I think the content is clear.
+I think the content is objective.
+I think the content is complete.
+I think the content is authentic.
+I think the content is trustworthy.
+I think the content is correct.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Disagree
+
+[[Block]]
+[[Question:TextEntry:SingleLine]]
+Name a color
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is complete.
+I think the content is clear.
+I think the content is objective.
+I think the content is trustworthy.
+I think the content is readable.
+I think the content is reliable.
+I think the content is correct.
+I think the content is authentic.
+[[AdvancedAnswers]]
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is readable.
+I think the content is clear.
+I think the content is correct.
+I think the content is authentic.
+I think the content is reliable.
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is objective.
+[[AdvancedAnswers]]
+[[Answer]]
+Neutral
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is reliable.
+I think the content is objective.
+I think the content is readable.
+I think the content is trustworthy.
+I think the content is correct.
+I think the content is authentic.
+I think the content is complete.
+I think the content is clear.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Neutral
+[[Answer]]
+Agree
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Disagree
+
+[[Block]]
+[[Question:Matrix]]
+Q: At the end of World War II, which of the Allied nations captured the German capital city of Berlin? Great Britain France the Soviet Union the United States
+A: at the end of world war II, the allied nations that captured the German Capital city of Berlin was: The Soviet Union_ This caused the separation of Germany, into Eastern and Western Block. East Germany was influenced by Soviet Union's communism while the West Germany was influenced by United States' Democracy..
+
+[[Choices]]
+I think the content is correct.
+I think the content is trustworthy.
+I think the content is complete.
+I think the content is clear.
+I think the content is authentic.
+I think the content is reliable.
+I think the content is objective.
+I think the content is readable.
+[[AdvancedAnswers]]
+[[Answer]]
+Strongly Disagree
+[[Answer]]
+Neutral
+[[Answer]]
+Disagree
+[[Answer]]
+Strongly Agree
+[[Answer]]
+Agree
+
